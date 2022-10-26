@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+rapidfuzz = "*"
+pandas = "*"
+numpy = "*"
+pyarrow = "*"
+sqlalchemy = "*"
+python-dotenv = "*"
+urllib3 = "*"
+certifi = "*"
+mariadb = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

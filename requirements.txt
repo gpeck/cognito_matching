@@ -1,0 +1,9 @@
+rapidfuzz
+pandas
+numpy
+pyarrow
+sqlalchemy
+python-dotenv
+mariadb
+urllib3
+certifi
